@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bien le bonjour 👋
 
-<!--
-**SleepyBullfrog/SleepyBullfrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis SleepyBullfrog et je suis étudiant à l'IUT de Vannes au [département informatique](https://www.iutvannes.fr/formation-informatique-morbihan-bretagne/).
 
-Here are some ideas to get you started:
+Vous trouverez sur mon github des projets personnels ainsi que des projets scolaires.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Libre à vous de les consultés !
+
+## Orientation
+
+J'effectue actuellement un parcours de deux à trois ans au sein de l'IUT de Vannes puis je compte rentrer à l'ENSIBS de Vannes afin d'obtenir un diplome d'ingénieur en cyber-sécurité.
+
+## Autres
+
+- TryHackMe : [https://tryhackme.com/p/sleepyFrog](https://tryhackme.com/p/sleepyFrog)
