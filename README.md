@@ -1,4 +1,4 @@
-## Bien le bonjour 👋
+## Bonjour 👋
 
 Je suis SleepyBullfrog et je suis étudiant à l'IUT de Vannes au [département informatique](https://www.iutvannes.fr/formation-informatique-morbihan-bretagne/).
 
